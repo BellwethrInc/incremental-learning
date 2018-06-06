@@ -10,3 +10,7 @@ There are two primary reasons for attempting to build a model that learns increm
 
 <strong>2. Data Privacy</strong>
 The transfer of large files (training) to the cloud creates data privacy and security issues. Using incremental learning, we can build a model without the need to store sensitive files in the cloud. With this method, any private data can be encrypted in transit and only the model itself is stored on disk. 
+
+## To-Dos
+- Test Ensembles 
+- Test Cross-Algorithm Ensembles
