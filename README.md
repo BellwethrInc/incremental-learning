@@ -1,4 +1,4 @@
-# Experiments with Incremental Learning for Privacy Preservation
+# Experiments with Incremental Learning
 Experiments and frameworks for incremental machine learning.
 
 <strong>Why attempt to learn incrementally?</strong>
